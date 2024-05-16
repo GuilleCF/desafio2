@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "desafio"
+    "desafio2"
 ]
 
 MIDDLEWARE = [
@@ -79,9 +79,9 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "desafio2",
         "USER": "postgres",
-        "PASSWORD": "gcf2750",
+        "PASSWORD": "desafio2",
         "HOST": "localhost",
-        "PORT": "5432",
+        "PORT": "5434",
     }
 }
 
